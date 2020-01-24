@@ -1,5 +1,5 @@
 # DREAM_Project
-Topias Lemetyenin, Jennifer Tritle, Heather Saul, Will Pope, Jaime Echavarria, Alessio Caligaris
+Topias Lemetyinen, Jennifer Tritle, Heather Saul, Will Pope, Jaime Echavarria, Alessio Caligaris
 
 This project will analyze crowdfunding applications for medical expenses using data from Gofundme. The purpose of the project is to uncover and visualize data that answers questions such as:
 
