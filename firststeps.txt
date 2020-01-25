@@ -6,7 +6,8 @@ Formalize Questions:
 
 	2. What are the top three most requested medical conditions in these areas?
 
-	3. How do these requests relate overall disease trends in those ares (for the top 		three medical conditions)?
+	3. How do these requests relate overall disease trends in those ares (for the top 		
+		three medical conditions)?
 
 What data do we need and sources of them?
 
