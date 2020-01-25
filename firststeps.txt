@@ -1,8 +1,11 @@
 DREAM PROJECT:
 
 Formalize Questions:
+
+	Time period: 2013 - 2018
+	
 	1. Do areas with a higher proportion of medically uninsured have higher rates
-		of crowdfunding requests for medical conditions?
+		of crowdfunding requests for medical conditions? Time
 
 	2. What are the top three most requested medical conditions in these areas?
 
