@@ -4,7 +4,7 @@ Topias Lemetyinen, Jennifer Tritle, Heather Saul, Will Pope, Jaime Echavarria, A
 This project will seek to answer:
 
 1. Do areas with higher rates of uninsured populations utilize emergency/urgent care services more frequently than
-    ares with lower rates of uninsured populations?
+    areas with lower rates of uninsured populations?
     
 2. Comparison of mortality rates in areas with more uninsured persons vs areas with less uninsured persons.
 
