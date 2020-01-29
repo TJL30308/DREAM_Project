@@ -1,6 +1,6 @@
 #States for study
 states_list = [
-    'Alabama',
+    'Arizona',
     'Florida',
     'Illinois',
     'Iowa',
