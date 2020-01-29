@@ -10,8 +10,16 @@ This project will seek to answer:
 
 3. Comparison of moratlity rate vs health care expenditure by area (more uninsured/less unisured).
 
-Types of data:
-Government (CDC) APIs and CSVs, census information, healthcare utilization data, mortality data, healthcare expenditure data.
+
+States to Analyze:
+Arizona, Florida, Illinois, Iowa, Kentucky, Maryland, Minnesota, Nebraska, North Carolina, South Carolina, Tennessee, Vermont
+
+Time Period:
+2010 - 2014
+
+Data Sources:
+Health Care Utilization Project Data - ER Visits
+
 
 Breakdown of tasks:
 Reviewing data sources
